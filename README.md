@@ -10,12 +10,12 @@
 > Dados/
 > │
 > ├── JuiceShop/
-> │   ├── Codigo-Fonte/
-> │   └── JuiceShop.sarif
+> │   ├── juiceShop.zip/
+> │   └── code.sarif
 > │
 > ├── Google-Gemini/
 > │   └──  Google-Gemini.zip
-      └──  README.md
+> |   └──  README.md> 
 > │
 > └── OpenAI/
 > |   └──  OpenAI-ChatGpt
