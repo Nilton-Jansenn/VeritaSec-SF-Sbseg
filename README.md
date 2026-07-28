@@ -15,12 +15,11 @@
 > │
 > ├── Google-Gemini/
 > │   └──  Google-Gemini.zip
-        └──  README.md
-
+      └──  README.md
 > │
 > └── OpenAI/
->      └──  OpenAI-ChatGpt
-         └──  README.md
+> |   └──  OpenAI-ChatGpt
+>     └──  README.md
 > ```
 >
 > ### Descrição dos Diretórios
