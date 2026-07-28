@@ -18,7 +18,7 @@
 > |   └──  README.md> 
 > │
 > └── OpenAI/
-> |   └──  OpenAI-ChatGpt
+> |   └──  OpenAI-ChatGpt.zip
 >     └──  README.md
 > ```
 >
