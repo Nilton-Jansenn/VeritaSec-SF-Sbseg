@@ -1,3 +1,15 @@
+# Download do Artefato
+
+O artefato oficial do SBSeg 2026 está disponível na seção **Releases** deste repositório.
+
+👉 Acesse:
+https://github.com/Nilton-Jansenn/VeritaSec-SF-Sbseg/releases/latest
+
+Arquivo:
+
+VeritasSec-SBSeg2026-Artifact-v1.0.zip
+
+
 # VeritasSec
 
 > **Context-Aware SAST Validation Framework**
