@@ -1,3 +1,61 @@
+> ## Dados Experimentais
+>
+> O diretório **`Dados/`** reúne os **insumos utilizados** e os **resultados produzidos** durante os experimentos apresentados no artigo submetido ao **SBSeg 2026**, permitindo a reprodução, inspeção e validação das avaliações realizadas com o **VeritasSec**.
+>
+> A organização dos dados foi projetada para facilitar a reprodutibilidade dos experimentos, separando claramente as entradas utilizadas pelo framework das saídas geradas durante o processamento.
+>
+> ### Estrutura
+>
+> ```text
+> Dados/
+> │
+> ├── JuiceShop/
+> │   ├── Codigo-Fonte/
+> │   └── JuiceShop.sarif
+> │
+> ├── Google-Gemini/
+> │   └──  Google-Gemini.zip
+        └──  README.md
+
+> │
+> └── OpenAI/
+>      └──  OpenAI-ChatGpt
+         └──  README.md
+> ```
+>
+> ### Descrição dos Diretórios
+>
+> **JuiceShop/**
+>
+> Contém o projeto **OWASP Juice Shop** utilizado como objeto de estudo durante os experimentos, bem como o respectivo relatório **SARIF** gerado pela ferramenta SAST e utilizado como entrada para o VeritasSec.
+>
+> **Google-Gemini/**
+>
+> Contém os resultados produzidos pelo VeritasSec utilizando modelos da família **Google Gemini**, incluindo, conforme aplicável:
+>
+> - relatórios em CSV;
+> - relatórios em JSON;
+> - relatórios em Markdown;
+> - arquivos SARIF enriquecidos;
+> - métricas de execução;
+> - gráficos estatísticos gerados automaticamente.
+>
+> **OpenAI/**
+>
+> Contém os resultados produzidos pelo VeritasSec utilizando modelos da **OpenAI**, seguindo a mesma organização e formato adotados para os experimentos realizados com o Google Gemini.
+>
+> ### Objetivo
+>
+> A disponibilização desses dados permite que os avaliadores:
+>
+> - reproduzam os experimentos descritos no artigo;
+> - inspecionem os insumos utilizados durante a avaliação;
+> - comparem os resultados produzidos pelos diferentes provedores de IA;
+> - validem os relatórios, métricas, gráficos e arquivos SARIF enriquecidos gerados automaticamente pelo VeritasSec.
+
+
+
+
 # Download do Artefato
 
 O artefato oficial do SBSeg 2026 está disponível na seção **Releases** deste repositório.
